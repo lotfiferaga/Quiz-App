@@ -44,4 +44,4 @@ Select Next to get the Import Wizzard. Browse to find the location of the file. 
 Select Finish. You will see a new package (in this case called Pizza)
 
 One of the files, PizzaForm has an error. This file expects a class called Pizza which is not part of the package.
-A package is just a directory of Java classes which have been packaged together into a single file. You must include the Java declaration package Pizza; in each class, so the Java compiler knows where to find the class. Here is an example form one of the classes, PizzaCrust
+A package is just a directory of Java classes which have been packaged together into a single file. You must include the Java declaration package Pizza; in each class, so the Java compiler knows where to find the class.
